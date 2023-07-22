@@ -13,4 +13,4 @@
 
 🙋‍♀️ A short introduction
 
-[Ajay Research Lab](www.ajaylab.co.uk) is a part of the Modelling and Simulation Group at the School of Engineering in University of Manchester. Please visit our website to know more about our work.
+[Ajay Lab](www.ajaylab.co.uk) is a part of the Modelling and Simulation Group at the School of Engineering in University of Manchester. Please visit our website to know more about our work.
