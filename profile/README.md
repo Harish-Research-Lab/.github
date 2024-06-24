@@ -13,4 +13,4 @@
 
 🙋‍♀️ A short introduction
 
-[Growing Matter Lab](www.growingmatterlab.co.uk) is a part of the School of Engineering in University of Manchester. Please visit our website to know more about our work.
+[Growing Matter Lab](https://www.growingmatterlab.co.uk) is a part of the School of Engineering in University of Manchester. Please visit our website to know more about our work.
