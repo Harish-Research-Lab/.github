@@ -13,4 +13,4 @@
 
 🙋‍♀️ A short introduction
 
-[Harish Lab](https://www.harishlab.com) is a part of the School of Engineering in University of Manchester. Please visit our website to know more about our work.
+[Harish Lab](https://www.harishlab.com) is a part of the Department of Mechanical and Aerospace Engineering in University of Manchester. Please visit our website to know more about our work. This GitHub organisation contains only the work currently being updated. All our old work that are not being updated have been in the archived repositories at [Harish Lab Archives](https://github.com/Harish-Research-Lab-Archive).
