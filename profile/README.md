@@ -16,3 +16,4 @@ Harish Lab is a part of the Department of Mechanical and Aerospace Engineering i
 - The repositories that from our old work that are not currently under development includes [Harish Lab Archive](https://github.com/Harish-Research-Lab-Archive)
 - The repositories that we have forked can be found at [Harish Lab Forks](https://github.com/Harish-Research-Lab-Forks)
 - Our datasets can be found on our [Zenodo community](https://zenodo.org/communities/harishlab/)
+- You can find us on [Hugging Face](https://huggingface.co/harish-lab)
